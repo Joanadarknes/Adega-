@@ -18,7 +18,7 @@ Esse foi um projeto para finalizar o  1 semestre em meu curso de Ciência da com
 
 - Design básico.
 - Interatividade entre as partes do sistema, como login e cadastro.
-- Estrutura básica do projeto, como cálculos animações etc.
+- Estrutura básica do projeto, como cálculos e animações.
 
 
 ![inicio](https://user-images.githubusercontent.com/55301440/124063942-452c6e80-da0a-11eb-9e33-927f7796f566.png)
