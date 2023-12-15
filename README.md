@@ -2,7 +2,7 @@
 
 
 
-Esse foi um projeto para finalizar o  1 semestre em meu curso de Ciência da computação.
+Esse foi um projeto para finalizar o  1 semestre do curso de Ciência da computação.
 
  		Desenvolvido em conjunto com meu amigo Murillo júlio.
 
